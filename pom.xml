@@ -5,11 +5,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.xing</groupId>
-    <artifactId>micro-service</artifactId>
+    <artifactId>xing-micro-service</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>eureka-server</module>
+        <module>xing-register</module>
+        <module>xing-commons</module>
+        <module>xing-gateway</module>
+        <module>xing-config</module>
+        <module>xing-monitor</module>
+        <module>xing-service</module>
+        <module>xing-security</module>
+        <module>xing-job</module>
     </modules>
 
     <parent>
