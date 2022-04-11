@@ -12,10 +12,8 @@
         <module>xing-commons</module>
         <module>xing-config</module>
         <module>xing-gateway</module>
-        <module>xing-monitor</module>
-        <module>xing-security</module>
-        <module>xing-job</module>
         <module>xing-mall-order</module>
+        <module>xing-mall-goods</module>
     </modules>
 
     <properties>

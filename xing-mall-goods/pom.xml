@@ -9,9 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-
-    <artifactId>xing-job</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>xing-mall-goods</artifactId>
 
 
 </project>
